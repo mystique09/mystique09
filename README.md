@@ -4,7 +4,7 @@ I am a self-taught web developer and a hobbyist programmer with a UI/UX design s
 
 I started coding way back 2019, I really want to become a professional programmer that time, I started with Lua and Javascript but I focus more on Javascript because of Web development. Designing and coding challenges is my happiness. 😊
 
-> "quotes here..." - Ben
+> “Knowledge is power.” – Francis Bacon
 
 I'm not that good when it comes to design but I am willing to learn more and grow with this field.
 
