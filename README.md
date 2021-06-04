@@ -46,7 +46,7 @@ Tools that I've used or worked with.
 
 [#BenjieBenGarcia](https://benjiebengarcia.netlify.com)
 
-```
+```javascript
   function haveANiceDay(){
     console.log('Have a nice day, my friend!');
   }
