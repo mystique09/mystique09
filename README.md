@@ -1,17 +1,17 @@
 ## Hey, I'm Benjie Ben Garcia 👋
 
-I am a self-taught web developer and a hobbyist programmer with a UI/UX design skills(Front-end designer). I'm from Cebu City, Philippines. 🇵🇭
+I am a self-taught web developer and a hobbyist programmer with UI/UX design skills (Front-end designer). I'm from Cebu City, Philippines. 🇵🇭
 
-I started coding way back 2019, I really want to become a professional programmer that time, I started with Lua and Javascript but I focus more on Javascript because of Web development. Designing and coding challenges is my happiness. 😊
+I started coding way back in 2019. I really wanted to become a professional programmer at that time. I started with Lua and Javascript, but I focused more on Javascript because of Web development. Designing and coding challenges are my happiness. 😊
 
 > “Knowledge is power.” – Francis Bacon
 
-I'm not that good when it comes to design but I am willing to learn more and grow with this field.
+I'm not that good when it comes to design, but I am willing to learn more and grow in this field.
 
 
 ## What I'm focusing on 😗
 
-Current I'm improving my Javascript skill, design and backend skill: VueJS, ReactJS, NodeJS, ExpressJS and MongoDB.
+I'm improving my Javascript skills, design and backend skills: VueJS, ReactJS, NodeJS, ExpressJS and MongoDB. 
 
 
 ## My stack ⤵️
