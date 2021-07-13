@@ -44,7 +44,7 @@ Tools that I've used or worked with.
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/benjiebengarcia)
 
-[#BenjieBenGarcia](https://benjiebengarcia.netlify.com)
+[#BenjieBenGarcia](https://benjieben.tk)
 
 ```javascript
   function haveANiceDay(){
