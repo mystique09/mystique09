@@ -11,7 +11,7 @@ I'm not that good when it comes to design, but I am willing to learn more and gr
 
 ## What I'm focusing on 😗
 
-I'm improving my Javascript skills, design and backend skills: VueJS, ReactJS, NodeJS, ExpressJS and MongoDB. 
+I'm improving my Javascript skills, design and backend skills: ReactJS, NodeJS, ExpressJS and MongoDB. 
 
 
 ## My stack ⤵️
@@ -32,8 +32,6 @@ Tools that I've used or worked with.
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Others
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,10 +43,3 @@ Tools that I've used or worked with.
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/benjiebengarcia)
 
 [#BenjieBenGarcia](https://benjieben.tk)
-
-```javascript
-  function haveANiceDay(){
-    console.log('Have a nice day, my friend!');
-  }
-  haveANiceDay();
-```
