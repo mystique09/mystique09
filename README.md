@@ -1,20 +1,10 @@
-## Hey, I'm Benjie Ben Garcia 👋
+## Hey, I'm Benjie Ben
 
-I am a self-taught web developer and a hobbyist programmer with UI/UX design skills (Front-end designer). I'm from Cebu City, Philippines. 🇵🇭
+I am a self-taught programmer. I'm from Philippines.
 
 I started coding way back in 2019. I really wanted to become a professional programmer at that time. I started with Lua and Javascript, but I focused more on Javascript because of Web development. Designing and coding challenges are my happiness. 😊
 
-> “Knowledge is power.” – Francis Bacon
-
-I'm not that good when it comes to design, but I am willing to learn more and grow in this field.
-
-
-## What I'm focusing on 😗
-
-I'm improving my Javascript skills, design and backend skills: ReactJS, NodeJS, ExpressJS and MongoDB. 
-
-
-## My stack ⤵️
+## My stack
 
 Tools that I've used or worked with.
 
@@ -35,11 +25,6 @@ Tools that I've used or worked with.
 
 ### Others
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-## My social media account 🖥️
-
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/benjiebengarcia)
 
 [#BenjieBenGarcia](https://benjieben.tk)
