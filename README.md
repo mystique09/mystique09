@@ -27,4 +27,8 @@ Tools that I've used or worked with.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-[#BenjieBenGarcia](https://benjieben.tk)
+### Coding Challenge
+![Codewars](https://www.codewars.com/users/mystique09/badges/small)
+
+### Website
+[My Portfolio](https://benjieben.tk)
