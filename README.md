@@ -1,8 +1,8 @@
 ## Hey, I'm Benjie Ben
 
-I am a self-taught programmer. I'm from Philippines.
+I am a self-taught programmer.
 
-I started coding way back in 2019. I really wanted to become a professional programmer at that time. I started with Lua and Javascript, but I focused more on Javascript because of Web development. Designing and coding challenges are my happiness. 😊
+I started coding way back 2019. I started with Lua and Javascript, but I focused more on Javascript because of Web development. Designing and coding challenges are my happiness. 😊
 
 ## My stack
 
