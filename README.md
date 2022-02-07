@@ -1,12 +1,16 @@
-# Welcome to my github profile!
+<h1 align="center">Welcome to my github profile!</h1>
 
-## Tools that I've used or worked with.
+## About Me
+- I'm currently learning Rust and Go for backend.
+- I'm currently learning Svelte/kit for frontend.
+- I code on mobile(I don't have laptop but idc).
+- I google at work. 
 
-### Package Manager
-![NodeBadge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
-![YarnBadge](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+## Tools that I've used or worked with
 
 ### Backend
+![NodeBadge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
+![YarnBadge](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NodejsBadge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
