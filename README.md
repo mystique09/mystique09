@@ -29,5 +29,8 @@ Tools that I've used or worked with.
 ### Coding Challenge
 ![Codewars](https://www.codewars.com/users/mystique09/badges/small)
 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mystique09&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Website
 [My Portfolio](https://benjieben.tk)
