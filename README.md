@@ -23,7 +23,7 @@
 ![SvelteBadge](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 ### Other Info. :information_source:
-![Codewars](https://www.codewars.com/users/mystique09/badges/small)
+[![Codewars](https://www.codewars.com/users/mystique09/badges/small)](https://www.codewars.com/users/mystique09)
 
 [![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=mystique09&layout=compact&langs_count=20)](https://github.com/mystique09/mystique09)
 
