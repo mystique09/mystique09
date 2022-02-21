@@ -29,4 +29,4 @@
 
 
 ### Website :link:
-[MyPortfolio](benjieben-garcia.vercel.app)
+[My Portfolio](benjieben-garcia.vercel.app)
