@@ -5,8 +5,6 @@
 - I code on mobile(I don't have laptop but idc).
 - I google at work. 
 
-~~~~ 
-
 ### Backend
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NodejsBadge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
