@@ -1,12 +1,11 @@
 <h1 align="center">Welcome to my github profile!</h1>
 
-## About Me
 - I'm currently learning Rust and Go for backend.
 - I'm currently learning Svelte/kit for frontend.
 - I code on mobile(I don't have laptop but idc).
 - I google at work. 
 
-## Tools that I've used or worked with
+~~~~ 
 
 ### Backend
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
