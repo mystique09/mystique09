@@ -1,4 +1,5 @@
 <h1 align="center">Welcome to my github profile!</h1>
+![visits](https://profile-status.herokuapp.com/profile/mystique09?label=Total+Profile+Visits)
 
 - I'm currently learning Rust and Go for backend.
 - I'm currently learning Svelte/kit for frontend.
