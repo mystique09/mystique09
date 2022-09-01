@@ -1,16 +1,10 @@
 <h1 align="center">Welcome to my github profile!</h1>
 
-![](https://profile-status.herokuapp.com/profile/mystique09?label=TOTAL+VISITS)
-
-- I'm currently learning Rust and Go for backend.
-- I'm currently learning Svelte/kit for frontend.
-- I code on mobile(I don't have laptop but idc).
-- I google at work. 
+- I'm currently learning Svelte(kit), Rust, and Go. 
 
 ### Backend
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NodejsBadge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![RustlangBadge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![GolangBadge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend
@@ -27,5 +21,5 @@
 [![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=mystique09&layout=compact&langs_count=20)](https://github.com/mystique09/mystique09)
 
 
-### Website :link:
+### Website
 [![My Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://benjieben-garcia.vercel.app/)
