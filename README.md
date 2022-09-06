@@ -14,12 +14,3 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SvelteBadge](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-
-### Other Info. 
-[![Codewars](https://www.codewars.com/users/mystique09/badges/small)](https://www.codewars.com/users/mystique09)
-
-[![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=mystique09&layout=compact&langs_count=20)](https://github.com/mystique09/mystique09)
-
-
-### Website
-[![My Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://benjieben-garcia.vercel.app/)
