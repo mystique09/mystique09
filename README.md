@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my github profile!</h1>
 
-- At the moment, I'm studying Go, Rust, and Svelte(kit).
+- At the moment, I'm learning Go, Rust, and Svelte(kit).
 
 ### Backend
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
