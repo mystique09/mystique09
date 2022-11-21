@@ -3,7 +3,7 @@
 ## I am Ben, I develop random stuff ::<>
 
 ### About Me
-- Self-taught developer from Cebu.
+- 🤵 Self-taught developer from Cebu.
 - 💡 Go, Sveltekit, Javasript, and Rust.
 - 🔍 Looking for a job, backend(Go or Typescript) entry or junior position.
 
