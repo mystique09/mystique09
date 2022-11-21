@@ -3,8 +3,9 @@
 ## I am Ben, I develop random stuff ::<>
 
 ### About Me
-- 💡 At the moment, I'm learning Go, Rust, and Svelte(kit).
-- 🔍 Looking for a job, backend(Go or Typescript) entry level position.
+- Self-taught developer from Cebu.
+- 💡 Go, Sveltekit, Javasript, and Rust.
+- 🔍 Looking for a job, backend(Go or Typescript) entry or junior position.
 
 ### Projects
 - 🔗 A stackoverflowy-kindof-website, under development, not feature complete yet 'cause no 💸. [Try it here](https://algory.pages.dev/)
