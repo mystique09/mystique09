@@ -4,7 +4,7 @@ I am Ben, I develop random stuff ::<>.
 
 ### 🤵 Something about me
 - Self-taught developer from Cebu. 
-- Go, Sveltekit, Javascript, and Rust.
+- Sveltekit, Javascript, Typescript, Go, and Rust.
 
 ### 🚧 Things I'm working on lately in my free time
 - Honing my web development skill.
