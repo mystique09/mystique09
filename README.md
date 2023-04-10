@@ -2,9 +2,9 @@
 
 Hi, I'm Ben and I'm a self-taught developer from Cebu. I enjoy working on a variety of projects, including web development and programming in languages like Sveltekit, Javascript, Typescript, Go, and Rust.
 
-:construction: Current Projects
-- Algory (USABLE) [Try it here](https://algory.pages.dev/) | [Repository](https://github.com/mystique09/algory).
-- CNFS (USABLE) [Try it here](https://cnfs.vercel.app/) | [Repository](https://github.com/mystique09/confessit).
+:construction: Current projects
+- Algory (USABLE) [View](https://algory.pages.dev/) | [Repository](https://github.com/mystique09/algory).
+- CNFS (USABLE) [View](https://cnfs.vercel.app/) | [Repository](https://github.com/mystique09/confessit).
 - lls - `tree` alternative (USABLE | WIP) [Repository](https://github.com/mystique09/lls-clap).
 
 ### ⚙️ Languages and tools
