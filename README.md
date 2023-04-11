@@ -3,9 +3,9 @@
 Hi, I'm Ben and I'm a self-taught developer from Cebu. I enjoy working on a variety of projects, including web development and programming in languages like Sveltekit, Javascript, Typescript, Go, and Rust.
 
 :construction: Current projects
-- Algory (USABLE) [View](https://algory.pages.dev/) | [Repository](https://github.com/mystique09/algory).
-- CNFS (USABLE) [View](https://cnfs.vercel.app/) | [Repository](https://github.com/mystique09/confessit).
-- Musify - spotify frontend clone [Repository](https://github.com/mystique09/musify) | [View](https://musify-puce.vercel.app/)
+- Algory (USABLE) [Preview](https://algory.pages.dev/) | [Repository](https://github.com/mystique09/algory).
+- CNFS (USABLE) [Preview](https://cnfs.vercel.app/) | [Repository](https://github.com/mystique09/confessit).
+- Musify - spotify frontend clone [Preview](https://musify-puce.vercel.app/) | [Repository](https://github.com/mystique09/musify)
 - void - over-engineered discord bot (USABLE | WIP) [Repository](https://github.com/mystique09/void)
 - lls - `tree` alternative (USABLE | WIP) [Repository](https://github.com/mystique09/lls-clap).
 
