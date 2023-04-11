@@ -5,6 +5,8 @@ Hi, I'm Ben and I'm a self-taught developer from Cebu. I enjoy working on a vari
 :construction: Current projects
 - Algory (USABLE) [View](https://algory.pages.dev/) | [Repository](https://github.com/mystique09/algory).
 - CNFS (USABLE) [View](https://cnfs.vercel.app/) | [Repository](https://github.com/mystique09/confessit).
+- Musify - spotify frontend clone [Repository](https://github.com/mystique09/musify) | [View](https://musify-puce.vercel.app/)
+- void - over-engineered discord bot (USABLE | WIP) [Repository](https://github.com/mystique09/void)
 - lls - `tree` alternative (USABLE | WIP) [Repository](https://github.com/mystique09/lls-clap).
 
 ### ⚙️ Languages and tools
