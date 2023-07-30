@@ -1,16 +1,20 @@
 ## 👋 Hi there
 
-Hi, I'm Ben and I'm a self-taught developer from Cebu. I enjoy working on a variety of projects, including web development and programming in languages like Sveltekit, Javascript, Typescript, Go, and Rust.
+Hi, I'm Benjie. I'm a self-taught developer from Cebu, 
+currently working on a startup company as a Junior Front-end Web Developer.
+I enjoy working on a variety of projects including web development, and programming in languages
+like Sveltekit, Javascript/Typescript, Go, and Rust.
+I like to language-hop alot because I like exploring new paradigms, ideas, and design patterns.
 
-:construction: Current projects
-- Algory (USABLE) [Preview](https://algory.pages.dev/) | [Repository](https://github.com/mystique09/algory)
-- CNFS (USABLE) [Preview](https://cnfs.vercel.app/) | [Repository](https://github.com/mystique09/confessit)
-- Musify - spotify frontend clone [Preview](https://musify-puce.vercel.app/) | [Repository](https://github.com/mystique09/musify)
-- void - over-engineered discord bot (USABLE | WIP) [Repository](https://github.com/mystique09/void)
-- lls - `tree` alternative (USABLE | WIP) [Repository](https://github.com/mystique09/lls-clap)
+My current projects
+- [Algory](https://github.com/mystique09/algory) - QnA/Forum website. [Demo](https://algory.pages.dev/)
+- [CNFS](https://github.com/mystique09/confessit) - Anonymous confession website. [Demo](https://cnfs.vercel.app/)
+- [Musify](https://github.com/mystique09/musify) - Spotify frontend clone. [Demo](https://musify-puce.vercel.app/)
+- [void](https://github.com/mystique09/void) - Over-engineered discord bot (WIP). 
+- [lls](https://github.com/mystique09/lls-clap) - `tree` alternative.
 
 ### ⚙️ Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,go,rust,scss,tailwindcss,svelte)](https://skillicons.dev)
+[![My favorite programming languages/tools](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,go,rust,scss,tailwindcss,svelte)](https://skillicons.dev)
 
 View my [portfolio](https://benjieben-garcia.pages.dev)
 
