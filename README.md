@@ -1,10 +1,9 @@
 ## 👋 Hi there
 
 Hi, I'm Benjie. I'm a self-taught developer from Cebu, 
-currently working on a startup company as a Junior Front-end Web Developer.
-I enjoy working on a variety of projects including web development, and programming in languages
-like Sveltekit, Javascript/Typescript, Go, and Rust.
-I like to language-hop alot because I like exploring new paradigms, ideas, and design patterns.
+I enjoy working on a variety of projects including Front-end development,
+Back-end development, and programming in languages like Sveltekit, Javascript/Typescript, Go, and Rust.
+I also like to language-hop alot because I like exploring new paradigms, ideas, and design patterns.
 
 My current projects
 - [Algory](https://github.com/mystique09/algory) - QnA/Forum website. [Demo](https://algory.pages.dev/)
