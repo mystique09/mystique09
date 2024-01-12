@@ -9,7 +9,6 @@ My current projects
 - [Algory](https://github.com/mystique09/algory) - QnA/Forum website. [Demo](https://algory.pages.dev/)
 - [CNFS](https://github.com/mystique09/confessit) - Anonymous confession website. [Demo](https://cnfs.vercel.app/)
 - [Musify](https://github.com/mystique09/musify) - Spotify frontend clone. [Demo](https://musify-puce.vercel.app/)
-- [void](https://github.com/mystique09/void) - Over-engineered discord bot (WIP). 
 - [lls](https://github.com/mystique09/lls-clap) - `tree` alternative.
 
 ### ⚙️ Languages and tools
