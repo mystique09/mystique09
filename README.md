@@ -1,11 +1,8 @@
-## 👋 Hi there
+## 👋 Start your day with a `/:[)>\}\]]/g`
 
-Hi, I'm Benjie. I'm a self-taught developer from Cebu, 
-I enjoy working on a variety of projects including Front-end development,
-Back-end development, and programming in languages like Sveltekit, Javascript/Typescript, Go, and Rust.
-I also like to language-hop alot because I like exploring new paradigms, ideas, and design patterns.
+I'm just a random guy who loves to code.
 
-My current projects
+#### My recent projects
 - [Algory](https://github.com/mystique09/algory) - QnA/Forum website. [Demo](https://algory.pages.dev/)
 - [CNFS](https://github.com/mystique09/confessit) - Anonymous confession website. [Demo](https://cnfs.vercel.app/)
 - [Musify](https://github.com/mystique09/musify) - Spotify frontend clone. [Demo](https://musify-puce.vercel.app/)
