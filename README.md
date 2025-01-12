@@ -11,6 +11,6 @@ I'm just a random guy who loves to code.
 ### ⚙️ Languages and tools
 [![My favorite programming languages/tools](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,go,rust,scss,tailwindcss,svelte)](https://skillicons.dev)
 
-View my [portfolio](https://bnjcodex.xyz)
+View my [portfolio](https://bnjfolio.dev)
 
 Feel free to check out my projects and leave feedback! Thanks for visiting my GitHub.
