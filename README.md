@@ -7,7 +7,7 @@ I'm just a random guy who loves to code.
 - [CNFS](https://github.com/mystique09/confessit) - Anonymous confession website. [Demo](https://cnfs.vercel.app/)
 - [Musify](https://github.com/mystique09/musify) - Spotify frontend clone. [Demo](https://musify-puce.vercel.app/)
 - [lls](https://github.com/mystique09/lls-clap) - `tree` alternative.
-- [psgc-rs](https://github.com/mystique09/psgc-rs) - PSGC api written in rust.
+- [psgc-rs](https://github.com/mystique09/psgc-rs) - PSGC api written in rust. [Demo](https://api-psgc-production.up.railway.app/docs)
 
 ### ⚙️ Languages and tools
 [![My favorite programming languages/tools](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,go,rust,scss,tailwindcss,svelte)](https://skillicons.dev)
