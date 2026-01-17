@@ -8,6 +8,8 @@ I'm just a random guy who loves to code.
 - [Musify](https://github.com/mystique09/musify) - Spotify frontend clone. [Demo](https://musify-puce.vercel.app/)
 - [lls](https://github.com/mystique09/lls-clap) - `tree` alternative.
 - [psgc-rs](https://github.com/mystique09/psgc-rs) - PSGC api written in rust. [Demo](https://api-psgc-production.up.railway.app/docs)
+- [Memvid MCP](https://github.com/mystique09?tab=repositories) - A memvid MCP in rust.
+- [Telnyx Web Client](https://github.com/mystique09/telnyx-web-client) - (WIP) A web app to send and receive from Tenlyx phone numbers.
 
 ### ⚙️ Languages and tools
 [![My favorite programming languages/tools](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,go,rust,scss,tailwindcss,svelte)](https://skillicons.dev)
