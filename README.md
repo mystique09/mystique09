@@ -11,6 +11,7 @@ I'm just a random guy who loves to code.
 - [Memvid MCP](https://github.com/mystique09/memvid-mcp-rs) - A memvid MCP in rust.
 - [Telnyx Web Client](https://github.com/mystique09/telnyx-web-client) - (WIP) A web app to send and receive from Tenlyx phone numbers.
 - [OpenRalph](https://github.com/mystique09/openralph) - A tiny "Ralph Wiggum" loop for OpenCode: run an agent repeatedly until it outputs a completion phrase (default: DONE) or you hit a max-iteration safety limit.
+- [Cortana](https://github.com/mystique09/cortana) - A personal AI assistant using becy-ecs.
 
 ### ⚙️ Languages and tools
 [![My favorite programming languages/tools](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,go,rust,scss,tailwindcss,svelte)](https://skillicons.dev)
