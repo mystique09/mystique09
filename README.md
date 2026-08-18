@@ -3,14 +3,9 @@
 I'm just a random guy who loves to code.
 
 #### My recent projects
-- [Algory](https://github.com/mystique09/algory) - QnA/Forum website. [Demo](https://algory.pages.dev/)
-- [CNFS](https://github.com/mystique09/confessit) - Anonymous confession website. [Demo](https://cnfs.vercel.app/)
-- [Musify](https://github.com/mystique09/musify) - Spotify frontend clone. [Demo](https://musify-puce.vercel.app/)
-- [lls](https://github.com/mystique09/lls-clap) - `tree` alternative.
+- [FNote](https://github.com/mystique09/confessit) - Create your FNOTE link, share it with friends or followers, and get cheeky, honest notes sent anonymously to your inbox. [Demo](https://fnote.link/)
 - [psgc-rs](https://github.com/mystique09/psgc-rs) - PSGC api written in rust. [Demo](https://api-psgc-production.up.railway.app/docs)
-- [Memvid MCP](https://github.com/mystique09/memvid-mcp-rs) - A memvid MCP in rust.
 - [Telnyx Web Client](https://github.com/mystique09/telnyx-web-client) - A web app to send and receive from Tenlyx phone numbers.
-- [OpenRalph](https://github.com/mystique09/openralph) - A tiny "Ralph Wiggum" loop for OpenCode: run an agent repeatedly until it outputs a completion phrase (default: DONE) or you hit a max-iteration safety limit.
 - [Cortana](https://github.com/mystique09/cortana) - A personal AI assistant using becy-ecs.
 
 ### ⚙️ Languages and tools
