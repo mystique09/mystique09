@@ -3,7 +3,7 @@
 I'm just a random guy who loves to code.
 
 #### My recent projects
-- [FNote](https://github.com/mystique09/confessit) - Create your FNOTE link, share it with friends or followers, and get cheeky, honest notes sent anonymously to your inbox. [Demo](https://fnote.link/)
+- [FNote](https://github.com/mystique09/fnote) - Create your FNOTE link, share it with friends or followers, and get cheeky, honest notes sent anonymously to your inbox.
 - [psgc-rs](https://github.com/mystique09/psgc-rs) - PSGC api written in rust. [Demo](https://api-psgc-production.up.railway.app/docs)
 - [Telnyx Web Client](https://github.com/mystique09/telnyx-web-client) - A web app to send and receive from Tenlyx phone numbers.
 - [Cortana](https://github.com/mystique09/cortana) - A personal AI assistant using becy-ecs.
